@@ -2,9 +2,9 @@
 
 Source of original script: https://github.com/cshasha/cancer-clust/blob/master/cancer-clust.ipynb
 
-Original script adapted for dataset 1: cancerClust.ipynb
+Original script adapted for dataset 1: cancerClust_forDataset1.ipynb
 
-Original script adapted for dataset 2: version2.ipynb
+Original script adapted for dataset 2: cancerClust_forDataset2.ipynb
 
 - dataset 1: https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 - source: UC Irvine Machine Learning Repository, https://archive.ics.uci.edu/
